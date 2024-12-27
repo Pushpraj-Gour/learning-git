@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi how are you I am fine.
 My name is Khan
+=======
+I am cat.
+>>>>>>> s
